@@ -1,1 +1,1 @@
-# blockchain-hackathon
+# Chat Wallet
